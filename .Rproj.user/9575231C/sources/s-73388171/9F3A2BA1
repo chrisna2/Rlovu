@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560502122584.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9F3A2BA1",
+    "lastKnownWriteTime" : 1560502225,
+    "last_content_update" : 1560502225,
+    "path" : "C:/Users/TY/Desktop/R/data/agecity.csv",
+    "project_path" : "data/agecity.csv",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
